@@ -1,5 +1,6 @@
-{"homepage": "http://naseer4864.github.io/jimonemotors",
+{
   "name": "jimonemotors",
+  "homepage": "http://naseer4864.github.io/jimonemotors",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

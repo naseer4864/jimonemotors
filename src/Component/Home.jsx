@@ -3,8 +3,8 @@ import Responsive from "./Slider";
 import { motion,useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { useEffect } from "react";
-import happy from "./Component/images/happy-familyjpeg.jpeg";
-import auto from "./Component/images/auto-repair-shop.jpeg"
+import happy from "./images/happy-familyjpeg.jpeg";
+import auto from "./images/auto-repair-shop.jpeg"
 import Fade from "./CusSlider";
 import { Footer } from "./Footer";
 
