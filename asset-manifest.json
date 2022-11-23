@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jimonemotors/static/css/main.1492772a.css",
-    "main.js": "/jimonemotors/static/js/main.30112e59.js",
+    "main.js": "/jimonemotors/static/js/main.ab547237.js",
     "static/js/787.fdd1438e.chunk.js": "/jimonemotors/static/js/787.fdd1438e.chunk.js",
     "static/media/ty-h-05.png": "/jimonemotors/static/media/ty-h-05.1e295689ecfc8555707d.png",
     "static/media/cam-010.JPG": "/jimonemotors/static/media/cam-010.e0c149bf92799066f868.JPG",
@@ -48,11 +48,11 @@
     "static/media/slick.woff": "/jimonemotors/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/jimonemotors/index.html",
     "main.1492772a.css.map": "/jimonemotors/static/css/main.1492772a.css.map",
-    "main.30112e59.js.map": "/jimonemotors/static/js/main.30112e59.js.map",
+    "main.ab547237.js.map": "/jimonemotors/static/js/main.ab547237.js.map",
     "787.fdd1438e.chunk.js.map": "/jimonemotors/static/js/787.fdd1438e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1492772a.css",
-    "static/js/main.30112e59.js"
+    "static/js/main.ab547237.js"
   ]
 }
