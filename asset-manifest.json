@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/jimonemotors/static/css/main.1492772a.css",
-    "main.js": "/jimonemotors/static/js/main.c71ebf76.js",
+    "main.js": "/jimonemotors/static/js/main.30112e59.js",
     "static/js/787.fdd1438e.chunk.js": "/jimonemotors/static/js/787.fdd1438e.chunk.js",
     "static/media/ty-h-05.png": "/jimonemotors/static/media/ty-h-05.1e295689ecfc8555707d.png",
     "static/media/cam-010.JPG": "/jimonemotors/static/media/cam-010.e0c149bf92799066f868.JPG",
     "static/media/ford-22.png": "/jimonemotors/static/media/ford-22.ac7720e1801095262650.png",
+    "static/media/venza08.JPG": "/jimonemotors/static/media/venza08.102bc2f25fd7304304c4.JPG",
     "static/media/coro-s-05.png": "/jimonemotors/static/media/coro-s-05.3961571fd29803ef6cd3.png",
     "static/media/pon-10.png": "/jimonemotors/static/media/pon-10.6271c1aef4d3ae8b34dd.png",
     "static/media/hi05.JPG": "/jimonemotors/static/media/hi05.a5bbc27897e3ce15a72d.JPG",
@@ -13,7 +14,6 @@
     "static/media/coro-20.png": "/jimonemotors/static/media/coro-20.19a811b41340f5d25ef1.png",
     "static/media/mt-10.png": "/jimonemotors/static/media/mt-10.8cea9d4906a4f087c1c9.png",
     "static/media/coro-10.png": "/jimonemotors/static/media/coro-10.ffbbed9b61d6e03b61d6.png",
-    "static/media/venza08.JPG": "/jimonemotors/static/media/venza08.025fbb5bf5e574edcbd2.JPG",
     "static/media/Lx-rx-22.png": "/jimonemotors/static/media/Lx-rx-22.00c81b3fd7377792f1b2.png",
     "static/media/lx-rx-08.png": "/jimonemotors/static/media/lx-rx-08.fa3e936feb634ba44e24.png",
     "static/media/benze-222.png": "/jimonemotors/static/media/benze-222.10c40a9e7c82ebfda370.png",
@@ -48,11 +48,11 @@
     "static/media/slick.woff": "/jimonemotors/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/jimonemotors/index.html",
     "main.1492772a.css.map": "/jimonemotors/static/css/main.1492772a.css.map",
-    "main.c71ebf76.js.map": "/jimonemotors/static/js/main.c71ebf76.js.map",
+    "main.30112e59.js.map": "/jimonemotors/static/js/main.30112e59.js.map",
     "787.fdd1438e.chunk.js.map": "/jimonemotors/static/js/787.fdd1438e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1492772a.css",
-    "static/js/main.c71ebf76.js"
+    "static/js/main.30112e59.js"
   ]
 }
